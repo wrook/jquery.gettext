@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-29 14:30-0500\n"
+"PO-Revision-Date: 2009-01-30 11:23-0500\n"
+"Last-Translator: John Doe <john.doe@shopmedia.com>\n"
+"Language-Team: fr <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: test.js:7
+msgid "Humpty Dumpty sat on a wall,"
+msgstr "Humpty Dumpty s'assit sur le mur,"
+
+#: test.js:8
+msgid "Humpty Dumpty had a great fall."
+msgstr "Humpty Dumpty se cassa la figure."
+
+#: test.js:9
+msgid "All the king's horses, And all the king's men,"
+msgstr "Tous les chevaux du roi, Et tous les soldats du roi"
+
+#: test.js:10
+msgid "Couldn't put Humpty together again."
+msgstr "Ne purent jamais Remonter Humpty."
+
+#~ msgid "The end."
+#~ msgstr "La fin."
+
+#~ msgid "Maybe"
+#~ msgstr "Peut-etre"
+
+#~ msgid "Thomorow!"
+#~ msgstr "Demain"
+
+#~ msgid "No!"
+#~ msgstr "Non!"
+
+#~ msgid "No means no!"
+#~ msgstr "Non veux dire non!"
+
+#~ msgid "...whatever!"
+#~ msgstr "... peu import!"
+
+#~ msgid "Go habs!"
+#~ msgstr "Allez-y les Canadiens! "
+
+#~ msgid "Yes!"
+#~ msgstr "Oui!"
+
+#~ msgid "like..."
+#~ msgstr "mmmmm"
+
+#~ msgid "ho yeah..."
+#~ msgstr "ho oui..."
+
+#~ msgid "Ho noooes!"
+#~ msgstr "ho non!"
+
+#~ msgid "fr"
+#~ msgstr "fr"
+
+#~ msgid "No"
+#~ msgstr "Non"
